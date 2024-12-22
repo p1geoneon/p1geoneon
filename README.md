@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p1geoneon
-- 👀 I’m interested in ... haking/modding and astronomy 
-- 🌱 I’m currently learning ... nothing really im very lazy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... discord pigeon#9578
+- 👀 I’m interested in ... AI
+- 🌱 I’m currently learning ... AI
+- 💞️ I’m looking to collaborate on ... AI
+- 📫 How to reach me ... Discord pigeonofficial
